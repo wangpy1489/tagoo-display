@@ -38,7 +38,6 @@ export default {
     // 计算属性的 getter
     spanLen: function () {
       // `this` 指向 vm 实例
-      console.log(this.serviceList.length())      
       return 24 / this.serviceList.length()
     }
   }
