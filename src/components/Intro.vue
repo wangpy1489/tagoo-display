@@ -34,9 +34,11 @@ export default {
 
 <style>
 .intro-text{
+    /* font:italic ; */
+    font-family:"宋体";
     text-align: center; 
     font-size: 24px; 
     font-weight: bold; 
-    line-height:45px
+    line-height:45px    
 }
 </style>

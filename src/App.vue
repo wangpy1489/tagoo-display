@@ -34,9 +34,11 @@
                           APP展示
                         </MenuItem>
                       </router-link>  
-                      <MenuItem name="5">
-                            联系我们
-                        </MenuItem>
+                      <router-link to="/contact">  
+                        <MenuItem name="5">
+                              联系我们
+                          </MenuItem>
+                      </router-link >
                     </div>
                 </Menu>
             </Header>

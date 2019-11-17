@@ -10,7 +10,6 @@
         <br/>
         <img src="../assets/provider2.jpg"/>
         <br/>
-        <img src="../assets/provider3.jpg"/>
     </Card>
     </Col>
     <Col span="12" align= "middle" justify="center">
@@ -23,7 +22,6 @@
         <br/>
         <img src="../assets/customer2.jpg"/>
         <br/>
-        <img src="../assets/customer3.jpg"/>
     </Card>
     </Col>      
   
