@@ -1,8 +1,8 @@
 import Vue from 'vue'
 import App from './App.vue'
+import './plugins/iview.js'
 import VueRouter from 'vue-router'
 import routes from './router.config'
-import './plugins/iview.js'
 
 Vue.use(VueRouter)
 
