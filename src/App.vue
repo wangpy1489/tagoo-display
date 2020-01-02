@@ -46,7 +46,13 @@
               <router-view/> 
             </Content>
             <Divider/>
-            <Footer class="layout-footer-center">&copy; 上海太鸽信息技术有限公司	沪ICP18014000号</Footer>
+            <Footer class="layout-footer-center">
+              <span>
+              &copy; 上海太鸽信息技术有限公司	
+              </span>
+
+              <a href="http://www.beian.miit.gov.cn/">沪ICP18014000号</a>
+            </Footer>
         </Layout>
   </div>
 </template>
